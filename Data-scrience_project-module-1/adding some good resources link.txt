@@ -5,4 +5,16 @@ link for understanding confusion matrix
 
 https://youtu.be/qr2wUd7bW8c
 
+Link for understanding Decision Tree 
+
+https://youtu.be/JafwdbHg_HA
+
+Link for understanding gradient descent
+
+https://youtu.be/4iaCy0SsFYY
+
+Link for understanding T-Test and Z- Test 
+
+https://youtu.be/-DLajd4tprY
+
 
