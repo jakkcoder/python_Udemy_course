@@ -1,20 +1,24 @@
 
-You can watch these videos after completing the course I can not upload more then 2 hours video in free udemy course hence uploaded some on my youtube channel
+You can watch these videos after completing the course I cannot upload more than 2 hours video in free Udemy course as per restriction kept by Udemy—
+ hence uploaded some on my youtube channel
 
-link for understanding confusion matrix
+link for understanding confusion matrix---
 
 https://youtu.be/qr2wUd7bW8c
 
-Link for understanding Decision Tree 
+Link for understanding Decision Tree--- 
 
 https://youtu.be/JafwdbHg_HA
 
-Link for understanding gradient descent
+Link for understanding gradient descent----
 
 https://youtu.be/4iaCy0SsFYY
 
-Link for understanding T-Test and Z- Test 
+Link for understanding T-Test and Z- Test---
 
 https://youtu.be/-DLajd4tprY
 
 
+Link for understanding sigmoid funtion----
+
+https://youtu.be/NOwUClQ7v3c
